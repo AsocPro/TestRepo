@@ -22,6 +22,7 @@ public class TestApp {
             System.out.println("hahahahaha");
             hi++;
             hi++;
+            hi++; //This is just crazy I think I can't stand it;
         }
         while(hi <4);
         //or take away some comments from above.
