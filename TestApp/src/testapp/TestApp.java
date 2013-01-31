@@ -30,5 +30,11 @@ public class TestApp {
     public void run()
     {
         System.out.println("haha");
+    
+    }
+    public void stop()
+    {
+	//this does nothing
     }
 }
+
