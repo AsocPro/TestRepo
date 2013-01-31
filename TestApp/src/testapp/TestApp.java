@@ -1,6 +1,6 @@
 /*
  * To change this template, choose Tools | Templates
- * and open the template in the editor.
+ * and open 
  */
 package testapp;
 
@@ -14,6 +14,9 @@ public class TestApp {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        // TODO code application logic here 
+        //so what happens when I add to something here
+        
+        //or take away some comments from above.
     }
 }
