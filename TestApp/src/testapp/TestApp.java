@@ -24,5 +24,11 @@ public class TestApp {
         }
         while(hi <4);
         //or take away some comments from above.
+        //but I should be able to add stuff here right
+        //I should be able to
+    }
+    public void run()
+    {
+        System.out.println("haha");
     }
 }
