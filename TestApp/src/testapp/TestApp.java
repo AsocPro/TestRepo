@@ -21,7 +21,6 @@ public class TestApp {
         {
             System.out.println("hahahahaha");
             hi++;
-            hi++;
         }
         while(hi <4);
         //or take away some comments from above.
